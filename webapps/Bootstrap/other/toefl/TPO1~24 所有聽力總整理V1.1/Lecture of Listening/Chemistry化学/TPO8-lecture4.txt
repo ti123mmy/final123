@@ -1,0 +1,31 @@
+Lecture4     (chemistry)
+Pro
+ So, are there any questions?
+Stu
+ Yes, um, Professor Harrison, you were saying that the periodic table is predictive. What exactly does that mean? I mean I understand how it organize the elements but where¡¯s the prediction?
+Pro
+ Ok, let¡¯s look at our periodic table again. Ok, it is a groups elements in the categories that share certain properties, right?
+Stu
+ Um-huh~
+Pro
+ And it is ranged according to increasing atomic number, which is¡­
+Stu
+ The number of protons in each atom of an element.
+Pro
+ Right, well, early versions of the periodic table had gaps, missing elements. Every time you had one more proton, you had another element. And then, oops, there have been atomic number, for which there¡¯s no known element. And the prediction was that the element, with that atomic number existed somewhere, but it just haven¡¯t been found yet. And its location in the table would tell you what properties that it should have. It was really pretty exciting for scientists at that time to find these missing elements and confirm their predictive properties. Um, actually, that reminds other, other very good example of all these, element 43. See on the table, the symbol for element 42 and 44. In early versions of the table, there was no symbol for element 43 protons because no element with 43 protons had been discovered yet. So the periodic table had gap between elements 42 and 44. And then in 1925, a team of chemists led by a scientist named Ida Tack¡¯s claimed they had found element 43. They had been using a relatively new technology called X-ray spectroscopy, and they were using this to examine an ore sample. And they claimed that they¡¯d found an element with 43 protons. And they named it Masuria.
+Stu
+ Um, Professor Harrison, then, how come in my periodic table, here, element 43 is Tc, that¡¯s Technetium, right?
+Pro
+ Ok, let me add that. Actually, um, that¡¯s the point I¡¯m coming to. Hardly anyone believed that Tack¡¯s discovered the new element. X-ray spectroscopy was a new method at that time. And they were never able to isolate enough Masurium to have available sample to convince everyone the discovery. So they were discredited. But then, 12 years later in 1937, a different team became the first to synthesize the element using a cyclotron. And that element had¡­
+Stu
+ 43 protons?
+Pro
+ That¡¯s right, but they named it Technetium to emphasize that it was artificially created with technology. And people thought that synthesizing these this element, making it artificially was the only way to get it. We still haven¡¯t found it currently in nature. Now element 43 whether you call it Masurium or Technetium is radioactive. Why is that matter? What is true of radioactive element?
+Stu
+ It decays it turns into other elements. Oh, so does that explain why it was missing in periodic table?
+Pro
+Exactly, because of radioactive decay, element 43 doesn¡¯t last very long. And therefore, if that ever had been present on earth, it would decay ages ago. So the Masurium people were obviously wrong, and the Technetium people were right. Right? Well, that was then, now we know that element 43 does occur naturally. It can be naturally generated from Uranium atom that has spontaneously split. And guess what, the ore sample that the Masurium group was working with had plenty of Uranium in it enough to split into measurable amount of Masurium. So Tack¡¯s team might very well have found small amounts of Musurium in the ore sample just that once was generated from split Uranium decayed very quickly. And you know here¡¯s an incredible irony, Ida Tack, the chemist led the Musurium team, and well, she was the first to suggest that Uranium could break up into small pieces but she didn¡¯t know that that was the defense of her own discovery of element 43.
+Stu
+ So is my version of periodic table wrong? Should element 43 really be called Musurium?
+Pro
+ Maybe, but it¡¯s hard to tell for sure after all this time, if Ida Tack¡¯s group did discover element 43. They didn¡¯t, um, publish enough details on their method or instruments for us to know for sure. But I¡¯d like to think element 43 was discovered twice. As Musurium, it was first element to discover that occurs in nature only from spontaneous vision, and as Technetium, it was the first element discovered in the laboratory. And of course, it was an element the periodic table let us to expect existed before anyone had found it or made it.

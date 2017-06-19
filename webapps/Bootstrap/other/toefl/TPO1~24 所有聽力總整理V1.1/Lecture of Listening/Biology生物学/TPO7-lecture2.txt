@@ -1,0 +1,66 @@
+TPO 7 Lecture 2 Biology
+
+Pro: So, that is how elephant uses infrasound. Now, let¡¯s talk about the other
+and the acoustic spectrums, sound that is too high for humans to
+hear---ultrasounds. Ultrasound is used by many animals that detected and
+some of them seen out very high frequency sounds. So, what is a good
+example? Yes, Kayo.
+
+Kayo: Well, bats, since there is all blind, bets have to use sound for, you know,
+to keep them from flying in the things.
+
+Pro: That is echolocation. Echolocation is pretty self-explanatory; using
+echoes reflected sound waves to located things. As Kayo said that bat used for
+navigation and orientation. And what is else. Make.
+
+Make: Well, finding food is always important, and I guess not becoming food
+for other animals.
+
+Pro: Right, on both accounts. Avoiding other predators, and locating prey, 
+typically insects that fly around it at night. Before I go on, let me just respond
+something Kayo was saying--- this idea that is bats are blind. Actually, there
+are some species of bats, the one that don¡¯t use echolocation that do rely on
+their vision for navigation, but its true for many bats, their vision is too weak to
+count on. Ok, so quick some rays if echolocation works. The bats emit the
+ultrasonic pulses, very high pitch sound waves that we cannot hear. And then,
+they analyze the echoes, how the waves bound back. Here, let me finish the
+style diagram I started it before the class. So the bat sends out the pulses, very
+focus birds of sound, and echo bounds back. You know, I don¡¯t think I need to
+draw the echoes, your reading assignment for the next class; it has diagram
+shows this very clearly. So, anyway, as I were saying, by analyzing this echo,
+the bat can determine, say, if there is wall in a cave that needs to avoid, and
+how far away it is. Another thing uses the ultrasound to detect is the size and
+the shape of objects. For example, one echo they quickly identified is one way
+associated with moff, which is common prey for a bat, particularly a moff
+meeting its wings. However, moff happened to have major advantage over
+most other insects. They can detect ultrasound; this means that when the bat
+approaches, the moff can detect the bat¡¯s presence. So, it has time to escape
+to safety, or else they can just remain motionless. Since, when they stop
+meeting their wings, they will be much hard for the bat to distinguish from, oh¡­
+a leave or some other object. Now, we have tended to underestimate just how
+sophisticated the ability that animals that use ultrasound are. In fact, we kinds
+of assume that they were filtering a lot out. The ways are sophisticated radar
+on our system can ignore the echo from the stationary object on the ground.
+Radar are does this to remove ground clutter, information about the hills or
+buildings that they doesn¡¯t need. But bats, we thought they were filtering out
+kinds of information, because they simply couldn¡¯t analyze it. But, it looks as
+we are wrong. Recent there was the experiment with trees and specific
+species of bat. A bat called: the laser spear nosed bat. Now, a tree should be
+huge and acoustic challenge for bat, right? I mean it got all kinds of surfaces
+with different shapes and angles. So, well, the echoes from trees are going to
+be massive and chaotic acoustic reflection, right, not like the echo from the
+moff. So, we thought for a long time that the bat stop their evaluation as simply
+that is tree. Yet, it turns out that is or at least particular species, cannot only tell
+that is trees, but can also distinguish between a pine tree, deciduous tree, like
+a maple or oak tree, just by their leaves. And when I say, leaves, I mean pine
+needles too. Any idea on how we would know that?
+
+Stu: Well, like with the moff, could be their shape? 
+
+Pro: You are on the right track---it actually the echo of all the leaves as whole
+the matters. Now, think, a pine trees with little densely packed needles. Those
+produced a large number of fain reflection in which what¡¯s we called as: a
+smooth of echo. The wave forms were very even, but an oak which has fewer
+but bigger leaves with stronger reflections, produces a gigots wave form, or
+what we called: a rough echo. And these bats can distinguish between a two,
+and not just was trees, but with any echo come in smooth and rough shape.

@@ -1,0 +1,32 @@
+Lecture 2     (software engineering)
+Narrator
+Listen to part of a lecture in the computer science class. The professor is discussing software engineering. 
+
+Professor
+We¡¯ve been talking about the software development cycle and today I¡¯d like to move on to the next stage of that cycle¡ªtesting and why finding bugs during testing as I surely agree the thing. Er.. .the quality of the software product often relies heavily on how well it has been tested. Liz?
+
+Liz
+Em¡­just a quick think. Bugs is the word for problems in the program code, correct?
+
+Professor
+Yeah, in code or in the computer itself. There¡¯s a bit of story behind that term. Back in the 1940¡¯s when the computer industry was just starting a group of computer scientists was working late one night and there was a problem in one of the computer circuits. When they examed it, they found five centimeter long moss code in there. Once they debug the computer they were just fine and ever since then all kinds of computer problems have been notice as bugs. Anyway, you want to find bugs while the software is still in the development and testing phrases, finding them when the software products are even have been put on the market can be quite embarrassing. Generally speaking, every software development project has a group of testers and a group of developers. And Jack?
+
+Jack
+And they¡¯re different people?
+
+Professor
+They¡¯re generally completely different groups of people. My personal opinion is that they have to be different groups of people because developers often have a bias toward their work and it blinds them the certain problems that might be obvious to somebody else. So it¡¯s always good to have different of eyes go in there and make sure that everything is tested properly. Ok, now here is the key, developers and testers have different mentalities. The mentality of a software developer is constructive, creative; they¡¯re spending long hours working together to create and build something new. A software tester on the other hand, their entire goal is to look at this product and find problems with it, to improve it. Now this difference between the testers and the developers lead to an environment where this bit friction. And that friction sometimes makes it difficult for the two teams to work together. 
+There are two projects that I worked on a couple of years ago. One which I will call project split where the test team and development teams did not work well together and the other I will call project unity during which both teams worked very well together. Now during project split we have defect meetings where the developers and the testers met together to discuss various problems and how they should be fixed and you could sense the conflict just by walking into the room. Literally, the testers and the developers sat on the opposite sides of the table and the developers were very defensive about the feedback.
+
+Jack
+Well£¬if bugs are being pointed out, they wouldn¡¯t be too happy since it¡¯s their work.
+
+Professor
+Exactly. Now cause the two teams weren¡¯t working well together, the fixes were coming very very slowly and you know a lot of times when you fix bugs you introduce new bugs or you discover bugs in other areas that only come to light because something¡¯s been changed. So fixing all those new additional bugs was also being delayed. The test process went on much longer than expected and we ended up having product on the market with known bugs in it, which was obviously not ideal.
+
+Liz
+OK and what about project unity, how was it different?
+
+Professor
+This was different because the two teams worked closely together. During the defective meetings, instead of putting up walls, we didn¡¯t even talk about you know who should fix this, who was at fault, we all acknowledged what needed to be fixed. So if we had ten bugs, we said: hey, you know what, let¡¯s do this one first because this will expose another whole bunch of defects that we haven¡¯t even seen yet. So we were being proactive and effective and because we were so much more effective with our time, we were actually able to do more than just fix bugs, we even put in some improvements that we haven¡¯t planned.
+
